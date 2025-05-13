@@ -11,7 +11,7 @@ A Laravel 10 application using Livewire 3, Tailwind CSS 4.1, and Redis (via Dock
 | PHP       | 8.3.21      |
 | Composer  | 2.8.8       |
 | Node.js   | 22.15.0     |
-| npm       | 11.3.0      |
+| npm       | 10.9.2      |
 | Laravel   | 10          |
 | Livewire  | 3           |
 | Tailwind  | 4.1         |
